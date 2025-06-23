@@ -1,0 +1,12 @@
+C:\Users\charl\source\repos\ResistanceCalculator\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\charl\source\repos\ResistanceCalculator\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\charl\source\repos\ResistanceCalculator\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\charl\source\repos\ResistanceCalculator\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\charl\source\repos\ResistanceCalculator\WindowsApp1\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
+C:\Users\charl\source\repos\ResistanceCalculator\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\charl\source\repos\ResistanceCalculator\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\charl\source\repos\ResistanceCalculator\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\charl\source\repos\ResistanceCalculator\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\charl\source\repos\ResistanceCalculator\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\charl\source\repos\ResistanceCalculator\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\charl\source\repos\ResistanceCalculator\WindowsApp1\obj\Debug\WindowsApp1.pdb
